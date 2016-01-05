@@ -13,3 +13,6 @@ for i, word in enumerate(words):
 
 print(dic)
 
+#dic = {word[:2-(i in (1,5,6,7,8,9,15,16,19))]:i for i, word in enumerate(words, 1)}
+#print(dic)
+
